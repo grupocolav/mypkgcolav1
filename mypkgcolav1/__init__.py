@@ -1,0 +1,1 @@
+from mypkgcolav1 import pkg
